@@ -1,9 +1,7 @@
-- 👋 Hey there! I'm Hisham Moideen pursuing a degree in computer science engineering.
-- 👨‍💻 Working for several websites including news agencies, businesses, portfolios etc.
-- 🌐 I have extensive experience in building WordPress websites for over 4 years now.
-- ✨ I'm a philomath in technology and enthusiastic about exploring newer sides of it.
+- 👋 Hey there! I'm Hisham Moideen, a Computer science engineering graduate on a journey to Devops.
+- 🌐 I have worked as freelance WordPress developer for over 6 years.
+- 👨‍💻 Worked for several websites including news agencies, businesses, portfolios etc.
 
-
-📫 Email me at hishamkumbra@gmail.com
+📫 Email me at hisham@hishcodes.com
 <br>
 My website: https://hishcodes.com
