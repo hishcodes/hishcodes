@@ -2,6 +2,6 @@
 - 🌐 I have worked as freelance WordPress developer for over 6 years.
 - 👨‍💻 Worked for several websites including news agencies, businesses, portfolios etc.
 
-📫 Email me at hisham@hishcodes.com
+📫 Email me at hisham@hisham.io
 <br>
 My website: https://hishcodes.com
